@@ -1,4 +1,5 @@
-9acb02f (HEAD -> main) Finished Task 2.1.
+7bb5c8a (HEAD -> main) Finished Task 2.2.
+9acb02f Finished Task 2.1.
 7c183aa Finished Task 2.1.
 f52f982 Finished Task 1.2.
 98fe69a Finished Task 1.1.
