@@ -1,3 +1,5 @@
-98fe69a (HEAD -> main) Finished Task 1.1.
+7c183aa (HEAD -> main) Finished Task 2.1.
+f52f982 Finished Task 1.2.
+98fe69a Finished Task 1.1.
 6d54f66 Finished Task 1.1.
 7d0499d (origin/main, origin/HEAD) Initial commit
